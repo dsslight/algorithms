@@ -1,2 +1,2 @@
 # algorithms
-Courcera algorithms source code
+Coursera algorithms source code
